@@ -18,3 +18,5 @@ analytics*
 .well-known/
 .well-known@
 .well-known*
+# vs code
+.history
